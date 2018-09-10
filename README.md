@@ -5,17 +5,20 @@ Laravel Nova resource tool to view user's data from [intercom.io](https://www.in
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/itainathaniel/nova-intercom-viewer.svg?style=flat-square)](https://packagist.org/packages/itainathaniel/nova-intercom-viewer)
 [![Total Downloads](https://img.shields.io/packagist/dt/itainathaniel/nova-intercom-viewer.svg?style=flat-square)](https://packagist.org/packages/itainathaniel/nova-intercom-viewer)
 
-Need to update photos
 **User profile partial panel**
-![screenshot of the user profile partial panel](https://itainathaniel.github.io/nova-nexmo/balance.png)
+![screenshot of the user profile partial panel](https://itainathaniel.github.io/nova-intercom-viewer/main.png)
+
 **More data** view, including some extra data, location & custom attributes
-![screenshot of the more data view, including some extra data, location & custom attributes](https://itainathaniel.github.io/nova-nexmo/balance.png)
+![screenshot of the more data view, including some extra data, location & custom attributes](https://itainathaniel.github.io/nova-intercom-viewer/more.png)
+
 **Events view**
-![screenshot of the events view](https://itainathaniel.github.io/nova-nexmo/balance.png)
+![screenshot of the events view](https://itainathaniel.github.io/nova-intercom-viewer/events.png)
+
 **Conversations view**
-![screenshot of the conversations view](https://itainathaniel.github.io/nova-nexmo/balance.png)
+![screenshot of the conversations view](https://itainathaniel.github.io/nova-intercom-viewer/conversations.png)
+
 **Notes view**
-![screenshot of the notes view](https://itainathaniel.github.io/nova-nexmo/balance.png)
+![screenshot of the notes view](https://itainathaniel.github.io/nova-intercom-viewer/notes.png)
 
 ## Installation
 
