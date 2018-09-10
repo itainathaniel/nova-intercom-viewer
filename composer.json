@@ -1,5 +1,5 @@
 {
-    "name": "itainathaniel/intercom-viewer",
+    "name": "itainathaniel/nova-intercom-viewer",
     "description": "Laravel Nova resource tool to view user's data from intercom.io",
     "keywords": [
         "laravel",
