@@ -1,0 +1,31 @@
+{
+    "name": "itainathaniel/intercom-viewer",
+    "description": "Laravel Nova resource tool to view user's data from intercom.io",
+    "keywords": [
+        "laravel",
+        "nova",
+        "intercom.io"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0",
+        "intercom/intercom-php": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Itainathaniel\\IntercomViewer\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Itainathaniel\\IntercomViewer\\ToolServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
